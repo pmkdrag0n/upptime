@@ -19,6 +19,10 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: Nextcloud
     url: https://nextcloud.securityzone.vn
+  - name: HNTH
+    check: "tcp-ping"
+    url: hnth.securityzone.vn
+    port: 1720,443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
