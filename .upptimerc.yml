@@ -5,20 +5,26 @@ repo: upptime # The name of this repository
 sites:
   - name: Forum Securityzone
     url: https://securityzone.vn
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: vCenter SI
+    url: https://vcenter01.securityzone.vn
+    __dangerous__disable_verify_peer: true
+  - name: vCenter POP
+    url: https://vcenter02.securityzone.vn
+    __dangerous__disable_verify_peer: true
+  - name: SI Site
+    url: https://sivpn.securityzone.vn
+    __dangerous__disable_verify_peer: true
+  - name: POP Site
+    url: https://sslvpn.securityzone.vn
+    __dangerous__disable_verify_peer: true
+  - name: Nextcloud
+    url: https://nextcloud.securityzone.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
