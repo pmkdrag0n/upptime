@@ -31,6 +31,8 @@ sites:
     check: "tcp-ping"
     url: hnth.securityzone.vn
     port: 5060
+  - name: Mail LTAT
+    url: https://mailltat.securityzone.vn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
