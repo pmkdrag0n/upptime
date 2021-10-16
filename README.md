@@ -1,6 +1,6 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://uptime.securityzone.vn): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Phạm Minh Khôi](http://pmkhoi.com/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Phạm Minh Khôi](https://uptime.securityzone.vn/), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/pmkdrag0n/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/pmkdrag0n/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/pmkdrag0n/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/pmkdrag0n/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
