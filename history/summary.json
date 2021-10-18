@@ -4,18 +4,20 @@
     "url": "https://securityzone.vn",
     "icon": "https://favicons.githubusercontent.com/securityzone.vn",
     "slug": "forum-securityzone",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3957,
     "timeDay": 3823,
     "timeWeek": 3957,
     "timeMonth": 3957,
     "timeYear": 3957,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-18": 1
+    }
   },
   {
     "name": "vCenter SI",
@@ -94,18 +96,20 @@
     "url": "https://nextcloud.securityzone.vn",
     "icon": "https://favicons.githubusercontent.com/nextcloud.securityzone.vn",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5270,
-    "timeDay": 11852,
-    "timeWeek": 5270,
-    "timeMonth": 5270,
-    "timeYear": 5270,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 5166,
+    "timeDay": 7938,
+    "timeWeek": 5166,
+    "timeMonth": 5166,
+    "timeYear": 5166,
+    "dailyMinutesDown": {
+      "2021-10-18": 0
+    }
   },
   {
     "name": "HNTH Provisioning Server",
