@@ -42,19 +42,19 @@
     "url": "https://vcenter02.securityzone.vn",
     "icon": "https://favicons.githubusercontent.com/vcenter02.securityzone.vn",
     "slug": "v-center-pop",
-    "status": "down",
-    "uptime": "96.39%",
-    "uptimeDay": "82.99%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "96.39%",
-    "time": 2830,
-    "timeDay": 1936,
-    "timeWeek": 2830,
-    "timeMonth": 2830,
-    "timeYear": 2830,
+    "status": "up",
+    "uptime": "96.34%",
+    "uptimeDay": "82.74%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "96.34%",
+    "time": 2757,
+    "timeDay": 1888,
+    "timeWeek": 2757,
+    "timeMonth": 2757,
+    "timeYear": 2757,
     "dailyMinutesDown": {
-      "2021-10-19": 245
+      "2021-10-19": 249
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/sslvpn.securityzone.vn",
     "slug": "pop-site",
     "status": "down",
-    "uptime": "97.54%",
-    "uptimeDay": "88.41%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "97.54%",
+    "uptime": "97.46%",
+    "uptimeDay": "88.02%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
     "time": 3868,
     "timeDay": 3146,
     "timeWeek": 3868,
     "timeMonth": 3868,
     "timeYear": 3868,
     "dailyMinutesDown": {
-      "2021-10-19": 167
+      "2021-10-19": 172
     }
   },
   {
